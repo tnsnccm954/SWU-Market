@@ -5,6 +5,6 @@ Demo: [Links](https://swumarketplace.herokuapp.com/)
 
 Admin account
 
-username: admin
+**username:** admin
 
-password: admin
+**password:** admin
